@@ -1,4 +1,4 @@
-Image Optimization, Management,And Delivery Platform
+**Image Optimization, Management,And Delivery Platform**
 
 The repository contains all the code used to build the Image Optimization and Delivery application.
 
